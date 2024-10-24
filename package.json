@@ -1,0 +1,7 @@
+{
+    "name": "ejemplo-flux",
+    "dependencies": {
+        "react": "^15.7.0",
+        "reflux": "^6.4.1"
+    }
+}
